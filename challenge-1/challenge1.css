@@ -1,0 +1,98 @@
+h2{
+    text-align: center;
+    margin-bottom: 1px;
+}
+hr{
+    border: 0.1px solid #ccc;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+h3{
+    margin-left: 20px;
+    color: rgb(4, 135, 228);
+    margin-bottom: 1px;
+}
+p{
+    margin-left: 180px;
+}
+b{
+   
+    margin-right: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="password"],
+select{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 30px;
+    margin-left: 5px;
+    width: 400px;
+}
+select{
+    height: 30px;
+}
+.DoB1{
+    width: 100px;
+    margin-right: 0px;
+}
+.DoB2{
+    width: 100px;
+    margin: 0px;
+}
+.DoB3{
+    width: 100px;
+    margin-left: 0px;
+}
+.container{
+    background-color: #f2f2f2;
+    padding: 5px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+}
+select{
+    cursor: pointer;
+    background-image:url(g2w.jpeg);
+    background-size: contain;
+}
+.presadd{
+    margin-left: 20px;
+}
+.pin{
+    margin-left: 182px;
+}
+.mob{
+    margin-left: 115px;
+}
+.alt{
+    margin-left: 66px;
+}
+.secpin{
+    margin-left: 178px;
+}
+.img1{
+    margin-left: 70px;
+    width: 200px;
+    vertical-align: middle;
+}
+.img2{
+    margin-left: 50px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+input[type="submit"]{
+    margin-left: 600px;
+    background-color: #1f72c4;
+    color: white;
+    padding: 10px 15px;
+    border: 1px solid #1f72c4;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 19px;
+    cursor:pointer;
+    margin-top: 10px;
+}
